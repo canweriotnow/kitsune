@@ -1,0 +1,4 @@
+* Introduction to kitsune
+
+TODO: write [[http://jacobian.org/writing/what-to-write/][great
+documentation]]
