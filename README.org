@@ -8,19 +8,19 @@ kitsune-template, a forthcoming lein template.
 
 ** Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/canweriotnow/kitsune.
 
 ** Usage
 
-FIXME: explanation
+As an http-kit projet, you should b eable to run in dev mode thusly:
 
 #+BEGIN_EXAMPLE
-    $ java -jar kitsune-0.1.0-standalone.jar [args]
+    $ lein run
 #+END_EXAMPLE
 
 ** Options
 
-FIXME: listing of options this app accepts.
+None yet. Soon.
 
 ** Examples
 
