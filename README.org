@@ -1,6 +1,10 @@
-* kitsune
+#+AUTHOR: Jason Lewis
+#+EMAIL: jason@decomplecting.org
+#+TITLE: kitsune
 
-FIXME: description
+
+A postmodern framework for post-web apps. Intended to be an examplar for
+kitsune-template, a forthcoming lein template.
 
 ** Installation
 
@@ -34,7 +38,7 @@ FIXME: listing of options this app accepts.
 
 ** License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Jason Lewis
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
