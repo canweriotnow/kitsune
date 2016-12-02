@@ -6,7 +6,8 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [http-kit "2.2.0"]
                  [com.cognitect/transit-clj "0.8.295"]
-                 [hiccup "1.0.5"]]
+                 [hiccup "1.0.5"]
+                 [com.stuartsierra/component "0.3.1"]]
   :main ^:skip-aot kitsune.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
